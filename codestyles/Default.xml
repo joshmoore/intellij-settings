@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :clojure-1.n5-test/root 0
+}</ClojureCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+  </JavaCodeStyleSettings>
+</code_scheme>
