@@ -1,10 +1,63 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>set</entry>
+        <entry>link</entry>
+        <entry>key</entry>
+        <entry>app</entry>
+        <entry>put</entry>
+        <entry>s</entry>
+        <entry>MER</entry>
+        <entry>SAVE</entry>
+        <entry>RE</entry>
+        <entry>post</entry>
+        <entry>IN</entry>
+        <entry>map</entry>
+        <entry>allInterfaces</entry>
+        <entry>logger</entry>
+        <entry>testing</entry>
+        <entry>data</entry>
+        <entry>v0</entry>
+        <entry>add</entry>
+        <entry>file</entry>
+        <entry>Other</entry>
+      </history-search>
+      <history-cmd>
+        <entry>help</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1519811791939">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1519809682371">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/opt/omero-all/omero-server/src/main/ice36/ome/services/util/IceUtil.java" timestamp="1519815340647">
         <mark key="[" line="24" column="7" />
@@ -26,13 +79,6 @@
         <mark key="]" line="82" column="39" />
         <mark key="." line="82" column="39" />
         <mark key="^" line="82" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1519809682371">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="/opt/omero-all/omero-server/src/main/java/ome/tools/hibernate/MySeqGenerator.java" timestamp="1519813065305">
         <mark key="'" line="26" column="45" />
@@ -117,6 +163,8 @@
       <jump line="37" column="13" filename="/opt/spacetx-fov-writer/src/main/java/spacetx/FOVTool.java" />
       <jump line="44" column="0" filename="/opt/spacetx-fov-writer/src/main/java/spacetx/FOVTool.java" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
@@ -161,6 +209,8 @@
         <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>Other</last-search>
       <last-offset />
@@ -168,46 +218,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>set</entry>
-        <entry>link</entry>
-        <entry>key</entry>
-        <entry>app</entry>
-        <entry>put</entry>
-        <entry>s</entry>
-        <entry>MER</entry>
-        <entry>SAVE</entry>
-        <entry>RE</entry>
-        <entry>post</entry>
-        <entry>IN</entry>
-        <entry>map</entry>
-        <entry>allInterfaces</entry>
-        <entry>logger</entry>
-        <entry>testing</entry>
-        <entry>data</entry>
-        <entry>v0</entry>
-        <entry>add</entry>
-        <entry>file</entry>
-        <entry>Other</entry>
-      </history-search>
-      <history-cmd>
-        <entry>help</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
