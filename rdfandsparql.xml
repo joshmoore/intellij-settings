@@ -1,0 +1,9 @@
+<application>
+  <component name="RDFAndSPARQL.RemoteOntologyCacheService">
+    <option name="ontologies">
+      <map>
+        <entry key="http://www.w3.org/2001/XMLSchema#" value="c8b556e6-a81c-462e-8688-04648739c234.trdf" />
+      </map>
+    </option>
+  </component>
+</application>
